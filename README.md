@@ -1,6 +1,6 @@
 # xG-project
 Important! This project is originally a school project and was added to github in the original format. The length of the report was limited to four pages.
-The datafiles used in the project could not be added to git due file size issues so only the code and final report could be included.
+The datafiles used in the project could not be added to git due file size issues so only the code and final report are included.
 Original data can be downloaded from https://figshare.com/collections/Soccer_match_event_dataset/4415000/2 and it was first published at https://www.nature.com/articles/s41597-019-0247-7
 By downloading the files 'players.json' and 'events_England.json' the code can be run locally. Further introduction to the project and analysis of the results can be found from the 'xG-project.pdf' file located in this repository
 
